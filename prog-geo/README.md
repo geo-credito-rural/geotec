@@ -7,9 +7,9 @@ Para acompanhar as atividades de programação do curso, você pode utilizar uma
 
 - [Instalação do ambiente Anaconda no Linux](./anaconda-linux.md)
 
-- Instalação do ambiente Anaconda no Microsoft Windows (**A ser disponibilizado Segunda-feira**)
+- Instalação do ambiente Anaconda no Microsoft Windows (**Nota a ser disponibilizada!**)
 
-- Usando o Google Colab (**A ser disponibilizado terça-feira**)
+- Usando o Google Colab (**Nota a ser disponibilizada!**)
 
 
 ## Dados
