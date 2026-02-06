@@ -1,17 +1,23 @@
 # Introdução à Programação com Dados Geoespaciais
 
-## Aula 01 - Introdução à Programação com a Linguagem Python
+## Preparação do Ambiente de Programação
 
-Jupyter Notebooks:
-- [introducao-jupyter-notebook.ipynb](aula-01/introducao-jupyter-notebook.ipynb)
 
-- [introducao-programacao.ipynb](aula-01/introducao-programacao.ipynb)
+Para acompanhar as atividades de programação do curso, você pode utilizar uma das opções abaixo:
 
-- [dados-tabulares-pandas.ipynb](aula-01/dados-tabulares-pandas.ipynb)
+- [Instalação do ambiente Anaconda no Linux](./anaconda-linux.md)
+
+- Instalação do ambiente Anaconda no Microsoft Windows (**A ser disponibilizado Segunda-feira**)
+
+- Usando o Google Colab (**A ser disponibilizado terça-feira**)
+
 
 ## Dados
 
-Os dados da aula encontram-se neste repositório em um arquivo denominado **[dados.zip](dados.zip)**. Após baixar e descompactar esse arquivo, você deverá obter a seguinte estrutura:
+Os dados da aula encontram-se **neste repositório** em um arquivo denominado **[dados.zip](dados.zip)**. 
+
+
+Após baixar e descompactar esse arquivo, você deverá obter a seguinte estrutura:
 
 ```text
 .
@@ -36,3 +42,24 @@ Os dados da aula encontram-se neste repositório em um arquivo denominado **[dad
         ├── focos-queimada.shp
         └── focos-queimada.shx
 ```
+
+## Aula 01 - Introdução à Programação com a Linguagem Python
+
+Jupyter Notebooks:
+- [introducao-jupyter-notebook.ipynb](aula-01/introducao-jupyter-notebook.ipynb)
+
+- [introducao-programacao.ipynb](aula-01/introducao-programacao.ipynb)
+
+- [dados-tabulares-pandas.ipynb](aula-01/dados-tabulares-pandas.ipynb)
+
+
+## Aula 02 - Manipulação de Dados Vetoriais em Python
+
+Jupyter Notebooks:
+- [tipos-geometricos.ipynb](aula-02/tipos-geometricos.ipynb)
+
+- [sistemas-referencia-coordenadas.ipynb](aula-02/sistemas-referencia-coordenadas.ipynb)
+
+- [dados-vetoriais-fiona.ipynb](aula-02/dados-vetoriais-fiona.ipynb)
+
+- [dados-vetoriais-geopandas.ipynb](aula-02/dados-vetoriais-geopandas.ipynb)
