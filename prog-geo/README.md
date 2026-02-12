@@ -3,6 +3,7 @@
 ## Preparação do Ambiente de Programação
 
 
+
 Para acompanhar as atividades de programação do curso, você pode utilizar uma das opções abaixo:
 
 - [Instalação do ambiente Anaconda no Linux](./anaconda-linux.md)
