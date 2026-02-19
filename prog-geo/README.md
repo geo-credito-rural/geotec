@@ -1,4 +1,4 @@
-# Introdução à Programação com Dados Geoespaciais
+# Introdução à programação com dados geoespaciais em ambientes de computação interativa
 
 ## Preparação do Ambiente de Programação
 
