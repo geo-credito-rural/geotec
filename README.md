@@ -1,4 +1,7 @@
-# Impedimentos Sociais, Ambientais e Climáticos
+# GeoTec
 
 
-Este repositório contém material de apoio ao módulo de Impedimentos Sociais, Ambientais e Climáticos, com alguns arquivos em *jupyter notebooks* que tratam do disposto na Seção 9 (Impedimentos Sociais, Ambientais e Climáticos) do Capítulo 2 (Condições Básicas) do Manual de Crédito Rural.
+Este repositório contém material de apoio ao módulo de Sensoriamento Remoto e Geotecnologias, que encontra-se organizado da seguinte forma:
+- [Introdução à programação com dados geoespaciais em ambientes de computação interativa](prog-geo/README.md)
+- [Introdução aos sistemas de bancos de dados e consultas SQL](bd/README.md)
+- [Bancos de Dados Geográficos](bdgeo/README.md)
