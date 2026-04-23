@@ -41,5 +41,5 @@ Análise de Unidades de Conservação, embargos e o uso de sensoriamento remoto 
 **Jupyter Notebooks:**
 - [Impedimentos-3-Unidades_de_Conservação.ipynb](aula-03/Impedimentos-3-Unidades_de_Conservação.ipynb)
 - [Impedimentos-8-Desmatamento.ipynb](aula-03/Impedimentos-8-Desmatamento.ipynb)
-- [Impedimentos-9-Embargos.ipynb](aula-03/Impedimentos_9_Embargos.ipynb)
+- [Impedimentos-9-Embargos.ipynb](aula-03/Impedimentos-9-Embargos.ipynb)
 
