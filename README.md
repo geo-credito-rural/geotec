@@ -6,3 +6,4 @@ Este repositório contém material de apoio ao módulo de Sensoriamento Remoto e
 - [Introdução aos sistemas de bancos de dados e consultas SQL](bd/README.md)
 - [Bancos de Dados Geográficos](bdgeo/README.md)
 - [Impedimentos Sociais, Ambientais e Climáticos](impedimentos/README.md)
+- [Uso e Cobertura da Terra](uso-e-cobertura-da-terra/README.md)
