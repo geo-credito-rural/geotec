@@ -7,3 +7,5 @@ Este repositório contém material de apoio ao módulo de Sensoriamento Remoto e
 - [Bancos de Dados Geográficos](bdgeo/README.md)
 - [Impedimentos Sociais, Ambientais e Climáticos](impedimentos/README.md)
 - [Uso e Cobertura da Terra](uso-e-cobertura-da-terra/README.md)
+- [Series Temporais](series-temporais/README.md)
+
